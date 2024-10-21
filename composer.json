@@ -1,0 +1,11 @@
+{
+  "name": "medina/fhirphp",
+  "description": "this is a test of fhir for php, it doesn't add all the resources, rules or anything special just class definition with types.",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "medina\\": "src/"
+    }
+  },
+  "require": {}
+}
